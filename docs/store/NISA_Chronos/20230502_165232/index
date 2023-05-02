@@ -1,0 +1,44 @@
+3a98c4ba471f11462d06a4c94ef4daa4010a466a	png	{"page":"1", "seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+163e076b29fb0dc4f5ed433b41ab8b695ea30d5c	png	{"page":"1", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+938e17f43d0ea679e0b344d97cd97f4cc1f38b06	png	{"page":"1", "seq":"7", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/28.pdf", "URL.port":"80", "URL.protocol":"https"}
+d1bf850f6f7b8cd9262d4ed85a927a473c100818	png	{"page":"1", "seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
+e52e94169bdbd567a0d7d26cfa36a1bb93da14d9	png	{"page":"2", "seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+b6b387947bb407980a632c38a3c46f7b8dada4a0	png	{"page":"2", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+bcd8e5a3d1186dabc7bea5c7d113dad4fd8dcfae	png	{"page":"2", "seq":"7", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/28.pdf", "URL.port":"80", "URL.protocol":"https"}
+211cc495d020ea4013040dec04811fbe1ff0ae37	png	{"page":"2", "seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
+be9a8d60edba802ff992c624882d19aec4a8fd94	png	{"page":"3", "seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+0876944da50be02bb5302440fcf0fceb225b7126	png	{"page":"3", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+62f9c55e466a8aae2997899e36eab5f64988ab86	png	{"page":"3", "seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
+bef67e35b6b06faf9a6652bbbbd9d0e803f3e452	png	{"page":"4", "seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+04e9e54c18381631764c9585e31760be63cc72e6	png	{"page":"4", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+6e5969c78e072c77288340951ffc2c70ef24cde8	png	{"page":"4", "seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
+ecbb466846addc730a8a48edacff58dcf105434e	png	{"page":"5", "seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+87197a53befed5f19ffb6d4e69bdc097021c5cf1	png	{"page":"5", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+c0f23d1541666b054291602221b8bf9864e9c643	png	{"page":"5", "seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
+0ed3acea94674afbdfd2969fa1e0bb44a64b0e56	png	{"page":"6", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+de5162707a8c701bdca808f156d7fb0269feb8ff	png	{"page":"7", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+a62ef931aab7dc3a7c5db7e3d1a7b903e03984ec	png	{"page":"8", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+6d044e3ef60fc60ccffd37d36b6e54fdb5a558d7	png	{"page":"9", "seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+cd1befebe8336e3837aeffd2856220a4e7b7e4ab	xlsx	{"seq":"1", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/23.xlsx", "URL.port":"80", "URL.protocol":"https"}
+0f58b2d68b0e043644b8b1436f4814f87cf8e459	csv	{"seq":"1", "sheet_index":"0", "sheet_name":"指定インデックス投資信託", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/23.xlsx", "URL.port":"80", "URL.protocol":"https"}
+a057919e32886466213e5393068d27f39bd48f5f	csv	{"seq":"1", "sheet_index":"1", "sheet_name":"指定インデックス投資信託以外の投資信託（アクティブ運用投信等）", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/23.xlsx", "URL.port":"80", "URL.protocol":"https"}
+c97fb9280a513fd9bf90904ed36e756bae5873c8	csv	{"seq":"1", "sheet_index":"2", "sheet_name":"上場株式投資信託（ETF）", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/23.xlsx", "URL.port":"80", "URL.protocol":"https"}
+f19feb737fd34872633859f36b786d1459febd9e	xlsx	{"seq":"2", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/25.xlsx", "URL.port":"80", "URL.protocol":"https"}
+fd852582e781a4571d56e22b5a6bc0ddcd231d6b	csv	{"seq":"2", "sheet_index":"0", "sheet_name":"指定インデックス投資信託", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/25.xlsx", "URL.port":"80", "URL.protocol":"https"}
+b5e992288255eaab804fb0aee64ed3ef2c6f12aa	csv	{"seq":"2", "sheet_index":"1", "sheet_name":"指定インデックス投資信託以外の投資信託（アクティブ運用投信等）", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/25.xlsx", "URL.port":"80", "URL.protocol":"https"}
+66719fac859324ed566f6598884379c2fcbf70ef	csv	{"seq":"2", "sheet_index":"2", "sheet_name":"上場株式投資信託（ETF）", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/25.xlsx", "URL.port":"80", "URL.protocol":"https"}
+1a7119393277b542db9561029271c9c3e21287a4	xlsx	{"seq":"3", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/01.xlsx", "URL.port":"80", "URL.protocol":"https"}
+7134598eaf0162224c734c50cb64a5f4d415e7db	csv	{"seq":"3", "sheet_index":"0", "sheet_name":"全業態", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/01.xlsx", "URL.port":"80", "URL.protocol":"https"}
+ab9914889a9eba9e3c001b7a3b5c1dc03098c65a	xlsx	{"seq":"4", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+86e5f22c0d3db721ee28ad99d90de81cbeda7b42	csv	{"seq":"4", "sheet_index":"0", "sheet_name":"証券会社", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+eece9e4683fb2b4f1d7ebc2cbc22f577a78b8911	csv	{"seq":"4", "sheet_index":"1", "sheet_name":"銀行・信託銀行", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+b692d697dae62cde9e14b56de1400554caa92f2a	csv	{"seq":"4", "sheet_index":"2", "sheet_name":"信用金庫", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+ee44d749c2c9b03fe59280ff53951684450de906	csv	{"seq":"4", "sheet_index":"3", "sheet_name":"信用組合", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+51b06e8c898bfc3e8037d3031e4d0b19ded92c80	csv	{"seq":"4", "sheet_index":"4", "sheet_name":"投信会社", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+635e0280a0ec62c8870bf53e6b67ce9f39d050d0	csv	{"seq":"4", "sheet_index":"5", "sheet_name":"農協", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+d58a3b88fd92861b320021e13cf77279de842d5c	csv	{"seq":"4", "sheet_index":"6", "sheet_name":"労働金庫", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+c3f192874d9840021cb003059ea1664faead3d7c	csv	{"seq":"4", "sheet_index":"7", "sheet_name":"保険会社", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20180126-1/02.xlsx", "URL.port":"80", "URL.protocol":"https"}
+17c65e5a9a1478ceaf46a787bcce0e9d9b52c2ea	pdf	{"seq":"5", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/24.pdf", "URL.port":"80", "URL.protocol":"https"}
+6d1781819ee24020dc6821b47788685cf7641f19	pdf	{"seq":"6", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/26.pdf", "URL.port":"80", "URL.protocol":"https"}
+017079fc112f068acfe582b69648dc722c18d736	pdf	{"seq":"7", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/28.pdf", "URL.port":"80", "URL.protocol":"https"}
+c9bf1f300c8553539197caacff892168545bcb57	pdf	{"seq":"8", "URL.host":"www.fsa.go.jp", "URL.path":"/policy/nisa/20170614-2/27.pdf", "URL.port":"80", "URL.protocol":"https"}
